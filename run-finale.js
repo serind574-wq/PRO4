@@ -408,7 +408,7 @@ const BROWSER_SCRIPT = () => {
         'smart-mountain-937000.puter.site': '9578779',
         'avid-mountain-909877.puter.site': '9578787',
         'jolly-road-702644.puter.site': '9578798',
-        'avid-mountain-909877.puter.site ': '9578806',
+        'colorful-tv-258268.puter.site': '9578806',
       };
 
       // Get the appropriate Linkvertise ID for this domain
