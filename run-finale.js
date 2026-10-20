@@ -399,7 +399,7 @@ const BROWSER_SCRIPT = () => {
 
       // Map domains to their Linkvertise IDs
       const DOMAIN_CONFIG = {
-        'avid-mountain-909877.puter.site': '9578664',
+        'zealous-river-220556.puter.site': '9578664',
         'witty-snake-472744.puter.site': '9578688',
         'kind-street-188208.puter.site': '9578706',
         'honest-bee-81788.puter.site': '9578728',
